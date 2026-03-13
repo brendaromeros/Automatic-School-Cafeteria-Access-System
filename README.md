@@ -49,7 +49,6 @@ Proyecto en fase de diseño y arquitectura.
 - Panel administrativo
 - Integración con sistemas escolares
 
-## Engineering Constraints
 ## Requerimientos específicos
 - Hardware de bajo presupuesto
 - Operación Offline
