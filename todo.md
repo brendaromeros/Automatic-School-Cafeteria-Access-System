@@ -1,20 +1,23 @@
-# Roadmap
+# Roadmap del Proyecto
 
-## Fase 1
-- [x] Requerimientos del sistema
-- [ ] Diseño de la arquitectura
+## Fase 1 – Diseño del sistema
+- [x] Definición de requerimientos
+- [x] Diseño de arquitectura
+- [x] Definición de base de datos
+- [x] Casos de uso
 
-## Fase 2
-- [ ] Módulo de detección de QR
-- [ ] Implementación de base de datos
+## Fase 2 – Prototipo de software
+- [ ] Lectura de códigos QR
+- [ ] Conexión con base de datos
+- [ ] Lógica de verificación
 
-## Phase 3
-- [ ] Control de acceso 
-- [ ] Integración del sensor
+## Fase 3 – Integración de hardware
+- [ ] Integración con sensores
+- [ ] Integración con alarmas
+- [ ] Interfaz de usuario
 
-## Phase 4
-- [ ] Móduo de exportación de datos
-
-## Phase 5
-- [ ] Pruebas en ambiente real 
+## Fase 4 – Pruebas
+- [ ] Pruebas funcionales
+- [ ] Pruebas de rendimiento
+- [ ] Validación en entorno real
 

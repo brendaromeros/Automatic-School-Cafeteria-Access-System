@@ -93,3 +93,21 @@ Los registros generados por el sistema deberán poder exportarse para:
 - Análisis de uso del comedor
 - Generación de reportes
 - Desarrollo futuro de modelos de predicción de demanda de alimentos
+
+## Supuestos del Sistema
+
+El diseño del sistema se basa en los siguientes supuestos operativos:
+
+- Los usuarios poseen un carnet con código QR único.
+- La verificación de acceso se realiza en un único punto de entrada.
+- El sistema funciona principalmente sin conexión a internet.
+- La base de datos se almacena localmente en el dispositivo.
+- El personal del comedor puede supervisar el sistema durante su operación.
+
+## Métricas de Rendimiento
+
+El sistema deberá cumplir con los siguientes objetivos de desempeño:
+
+- Tiempo máximo de verificación por usuario: 2 segundos
+- Capacidad mínima: 1 usuario cada 3 segundos
+- Registro confiable de accesos durante toda la jornada
